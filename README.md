@@ -125,18 +125,18 @@ Gemini AI Web App employs location tracking features for enhanced user experienc
    - API Endpoint: [https://geocode.maps.co/](https://geocode.maps.co/)
    - The app uses this API to convert latitude and longitude coordinates into an accurate user location.
 
-Please note that the use of location data is subject to our [Privacy Policy](https://github.com/superdev358/Gemini-Ai--MERN/blob/main/PRIVACY-POLICY.md), and user consent is prioritized. The obtained location information is solely used to enhance user experience within the Gemini AI Web App. We do not share this information with third parties.
+Please note that the use of location data is subject to our [Privacy Policy](https://github.com/smile101603/Gemini-Ai--MERN/blob/main/PRIVACY-POLICY.md), and user consent is prioritized. The obtained location information is solely used to enhance user experience within the Gemini AI Web App. We do not share this information with third parties.
 
 ## Issues and Contributions
 
-Report issues or contribute to the project on [GitHub](https://github.com/superdev358/Gemini-Ai--MERN).
+Report issues or contribute to the project on [GitHub](https://github.com/smile101603/Gemini-Ai--MERN).
 
 ## Privacy Policy
 
-Read our [Privacy Policy](https://github.com/superdev358/Gemini-Ai--MERN/blob/main/PRIVACY-POLICY.md) before using Gemini AI. Your use of this web app is subject to our privacy terms.
+Read our [Privacy Policy](https://github.com/smile101603/Gemini-Ai--MERN/blob/main/PRIVACY-POLICY.md) before using Gemini AI. Your use of this web app is subject to our privacy terms.
 
 ## Disclaimer
 
-Read the [Disclaimer](https://github.com/superdev358/Gemini-Ai--MERN/blob/main/DISCLAIMER.md) before using Gemini AI. Use of this web app implies acceptance of the terms stated in the disclaimer.
+Read the [Disclaimer](https://github.com/smile101603/Gemini-Ai--MERN/blob/main/DISCLAIMER.md) before using Gemini AI. Use of this web app implies acceptance of the terms stated in the disclaimer.
 
 Enjoy chatting with Gemini AI! 🚀
